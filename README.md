@@ -1,5 +1,5 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <title>Week 2 Lab</title>
@@ -131,6 +131,7 @@
 </head>
 
 <body>
+    <main>
     <h1>TIMING FUNCTIONS</h1>
     <div id="container">
         <h2>HOVER EFFECTS</h2>
@@ -147,7 +148,7 @@
         <div class="animations">
             <div id="ball"></div>
         </div>
-
+        </main>
     </div>
     <footer>Copyright 2018</footer>
 </body>
