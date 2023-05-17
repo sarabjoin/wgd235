@@ -1,4 +1,3 @@
-
 <html lang="en">
 
 <head>
@@ -131,7 +130,7 @@
 </head>
 
 <body>
-    <main>
+
     <h1>TIMING FUNCTIONS</h1>
     <div id="container">
         <h2>HOVER EFFECTS</h2>
@@ -148,9 +147,7 @@
         <div class="animations">
             <div id="ball"></div>
         </div>
-        </main>
+
     </div>
     <footer>Copyright 2018</footer>
-</body>
-
-</html>
+    </html>
